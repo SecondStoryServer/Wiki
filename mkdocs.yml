@@ -23,5 +23,6 @@ plugins:
 
 nav:
   - "ようこそ": index.md
+  - "ウェブサイト": website.md
   - "コマンド":
     - "チャット /chat": command/chat.md
