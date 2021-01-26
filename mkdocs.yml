@@ -1,2 +1,19 @@
 site_name: "せかすと公式うぃき"
 copyright: Copyright &copy; 2021 Second Story
+
+theme:
+  name: material
+  language: ja
+  favicon: img/favicon.png
+  logo: img/logo.png
+  palette:
+    primary: light green
+    accent: light green
+
+markdown_extensions:
+  - toc:
+      permalink: true
+
+plugins:
+  - search:
+      lang: ja
