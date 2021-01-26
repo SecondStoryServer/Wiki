@@ -1,0 +1,6 @@
+*
+*/
+!docs/
+!docs/**
+!.gitignore
+!mkdocs.yml
