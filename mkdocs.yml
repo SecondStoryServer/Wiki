@@ -9,6 +9,9 @@ theme:
   palette:
     primary: light green
     accent: light green
+  features:
+    - navigation.sections
+    - toc.integrate
 
 markdown_extensions:
   - toc:
@@ -17,3 +20,8 @@ markdown_extensions:
 plugins:
   - search:
       lang: ja
+
+nav:
+  - "ようこそ": index.md
+  - "コマンド":
+    - "チャット /chat": command/chat.md
