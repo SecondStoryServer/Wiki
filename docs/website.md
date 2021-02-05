@@ -12,5 +12,8 @@
 ## Japan Minecraft Server
 <a href="https://jms.ss-rpg.net" target="_blank"> https://jms.ss-rpg.net </a>
 
+## Twitter
+<a href="https://twitter.ss-rpg.net" target="_blank"> https://twitter.ss-rpg.net </a>
+
 ## Discord
 <a href="https://discord.ss-rpg.net" target="_blank"> https://discord.ss-rpg.net </a>
